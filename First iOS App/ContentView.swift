@@ -12,7 +12,7 @@ struct ContentView: View {
 						Spacer()
 						
 						Button {
-							name = ""
+							name = "Sample code"
 						} label: {
 							Image(systemName: "x.circle.fill")
 								.padding(.trailing, 10)
